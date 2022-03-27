@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "samplify",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/ctchan/Projects/aws/samplify/amplify/backend/api/samplify/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
